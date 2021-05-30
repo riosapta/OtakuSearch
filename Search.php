@@ -13,7 +13,7 @@
   if (isset($_POST['search'])) {
     $test = $_POST['search'];
     $data = sparql_get(
-      "http://localhost:3030/otakusearch",
+      "http://3a05ebf6c5f8.ngrok.io/otakusearch",
       "
         PREFIX p: <http://otakusearch.com>
         PREFIX d: <http://otakusearch.com/ns/data#>
@@ -26,14 +26,14 @@
                 d:author ?Author;
                 d:desc ?Desc;
                 d:genre ?Genre;
-                d:status ?Status
-                FILTER regex(?Title, '$test')
+                d:status ?Status;
+                FILTER (regex(?Title, '$test') || regex(?Type, '$test') || regex(?Author,  '$test') || regex(?Genre, '$test'))
         }
             "
     );
   } else {
     $data = sparql_get(
-      "http://localhost:3030/otakusearch",
+      "http://3a05ebf6c5f8.ngrok.io/otakusearch",
       "
         PREFIX p: <http://otakusearch.com>
         PREFIX d: <http://otakusearch.com/ns/data#>
@@ -46,8 +46,8 @@
                 d:author ?Author;
                 d:desc ?Desc;
                 d:genre ?Genre;
-                d:status ?Status
-                d:episodeChapter ?JumlahEps
+                d:status ?Status;
+                d:kucing ?Kucing;
         }
             "
     );
@@ -57,7 +57,7 @@
     print "<p>Error: " . sparql_errno() . ": " . sparql_error() . "</p>";
   }
 
-  var_dump($data);
+  // var_dump($data);
   // $search = $_POST['search-aniln'];
   //         var_dump($search);
   ?>
@@ -72,7 +72,7 @@
               <span></span>
               
               <ul id="menu">
-                <a href="#"><li>Home</li></a>
+                <a href="index.html"><li>Home</li></a>
                 <a href="#"><li>Search</li></a>
               </ul>
             </div>
@@ -102,15 +102,25 @@
     </div>
     <div class=content>  
         <div class="contentContainer">
-        <p>test</p>
         <?php foreach ($data as $dat) : ?>
             <div class="contentBox">
                 <h2><?= $dat['Title'] ?></h2>
-                <p>Type&emsp;&emsp;&emsp;&emsp;: <?= $dat['Type'] ?></p>
-                <p>Author&emsp;&emsp;&emsp;: <?= $dat['Author'] ?></p>
-                <p>Genre&emsp;&emsp;&emsp; : <?= $dat['Genre'] ?></p>
-                <p>Status&emsp;&emsp;&emsp;: <?= $dat['Status'] ?></p>
-                <p>Description : <?= $dat['Desc'] ?></p>
+                <div class="contentContent">
+                <h4>Type</h4>
+                <h4>Author</h4>
+                <h4>Genre</h4>
+                <h4>Status</h4>
+                </div>
+                <div class="contentContent">
+                <p><?= $dat['Type'] ?></p>
+                <p><?= $dat['Author'] ?></p>
+                <p><?= $dat['Genre'] ?></p>
+                <p><?= $dat['Status'] ?></p>
+                </div>
+                </br>
+                <h4>Description </h4>
+                <p><?= $dat['Desc'] ?></p>
+                
                 <div class="line"></div>
             </div>
         <?php endforeach; ?>

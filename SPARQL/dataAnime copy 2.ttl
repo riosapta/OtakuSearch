@@ -1,0 +1,282 @@
+PREFIX p: <http://Aniln.com>
+PREFIX d: <http://Aniln.com/ns/data#>
+
+d:P01        d:nama	               "Fullmetal Alchemist: Brotherhood" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Alchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called automail and become a state alchemist, the Fullmetal Alchemist." ;
+             d:airedPublished      "Apr 5, 2009 to Jul 4, 2010" ;
+             d:studiosAuthor       "Bones" ;
+             d:status              "Finished";
+             d:episodeChapter       64.
+
+d:P02        d:nama	               "Shingeki no Kyojin Season 3 Part 2" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Seeking to restore humanity's diminishing hope, the Survey Corps embark on a mission to retake Wall Maria, where the battle against the merciless Titans takes the stage once again." ;
+             d:airedPublished      "Apr 29, 2019 to Jul 1, 2019" ;
+             d:studiosAuthor       "Wit Studio" ;
+             d:status              "Finished";
+             d:episodeChapter       10.
+
+d:P03        d:nama	               "Steins;Gate" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Adapted from the critically acclaimed visual novel by 5pb. and Nitroplus, Steins;Gate takes Okabe through the depths of scientific theory and practicality. Forced across the diverging threads of past and present, Okabe must shoulder the burdens that come with holding the key to the realm of time." ;
+             d:airedPublished      "Apr 6, 2011 to Sep 14, 2011" ;
+             d:studiosAuthor       "White Fox" ;
+             d:status              "Finished";
+             d:episodeChapter       24.
+
+d:P04        d:nama	               "Gintama Season 4" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?" ;
+             d:airedPublished      "Apr 8, 2015 to Mar 30, 2016" ;
+             d:studiosAuthor       "Bandai Namco Pictures" ;
+             d:status              "Finished";
+             d:episodeChapter       51.
+
+d:P05        d:nama	               "Hunter x Hunter" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined." ;
+             d:airedPublished      "Oct 2, 2011 to Sep 24, 2014" ;
+             d:studiosAuthor       "Madhouse" ;
+             d:status              "Finished";
+             d:episodeChapter       148.
+
+d:P06        d:nama	               "Ginga Eiyuu Densetsu" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "The 150-year-long stalemate between the two interstellar superpowers, the Galactic Empire and the Free Planets Alliance, comes to an end when a new generation of leaders arises: the idealistic military genius Reinhard von Lohengramm, and the FPA's reserved historian, Yang Wenli." ;
+             d:airedPublished      "Jan 8, 1988 to Mar 17, 1997" ;
+             d:studiosAuthor       "Artland, Magic Bus" ;
+             d:status              "Finished";
+             d:episodeChapter       110.
+
+d:P07        d:nama	               "Gintama Season 2" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his sister Otae has married the Shinsengumi chief and shameless stalker Isao Kondou and is pregnant with their first child." ;
+             d:airedPublished      "Apr 4, 2011 to Mar 26, 2012" ;
+             d:studiosAuthor       "Sunrise" ;
+             d:status              "Finished";
+             d:episodeChapter       51.
+
+d:P08        d:nama	               "Gintama: Enchousen" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "While Gintoki Sakata was away, the Yorozuya found themselves a new leader: Kintoki, Gintoki's golden-haired doppelganger. In order to regain his former position, Gintoki will need the help of those around him, a troubling feat when no one can remember him! Between Kintoki and Gintoki, who will claim the throne as the main character?" ;
+             d:airedPublished      "Oct 4, 2012 to Mar 28, 2013" ;
+             d:studiosAuthor       "Sunrise" ;
+             d:status              "Finished";
+             d:episodeChapter       13.
+
+d:P09        d:nama	               "Shingeki no Kyojin: The Final Season" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Gabii Braun and Falco Grice have been training their entire lives to inherit one of the seven titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as all seems well for the two cadets, their peace is suddenly shaken by the arrival of Eren Yeager and the remaining members of the Survey Corps." ;
+             d:airedPublished      "Dec 7, 2020 to Mar 29, 2021" ;
+             d:studiosAuthor       "MAPPA" ;
+             d:status              "Finished";
+             d:episodeChapter       16.
+
+d:P10        d:nama	               "3-gatsu no Lion 2nd Season" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Now in his second year of high school, Rei Kiriyama continues pushing through his struggles in the professional shogi world as well as his personal life. Surrounded by vibrant personalities at the shogi hall, the school club, and in the local community, his solitary shell slowly begins to crack. Among them are the three Kawamoto sisters—Akari, Hinata, and Momo—who forge an affectionate and familial bond with Rei. Through these ties, he realizes that everyone is burdened by their own emotional hardships and begins learning how to rely on others while supporting them in return." ;
+             d:airedPublished      "Oct 14, 2017 to Mar 31, 2018" ;
+             d:studiosAuthor       "Shaft" ;
+             d:status              "Finished";
+             d:episodeChapter       22.
+
+d:P11        d:nama	               "Gintama Season 5" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "After joining the resistance against the bakufu, Gintoki and the gang are in hiding, along with Katsura and his Joui rebels. The Yorozuya is soon approached by Nobume Imai and two members of the Kiheitai, who explain that the Harusame pirates have turned against 7th Division Captain Kamui and their former ally Takasugi. The Kiheitai present Gintoki with a job: find Takasugi, who has been missing since his ship was ambushed in a Harusame raid. Nobume also makes a stunning revelation regarding the Tendoushuu, a secret organization pulling the strings of numerous factions, and their leader Utsuro, the shadowy figure with an uncanny resemblance to Gintoki's former teacher." ;
+             d:airedPublished      "Jan 9, 2017 to Mar 27, 2017" ;
+             d:studiosAuthor       "Bandai Namco Pictures" ;
+             d:status              "Finished";
+             d:episodeChapter       12.
+
+d:P12        d:nama	               "Koe no Katachi" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her. With Shouko transferring out of the school, Shouya is left at the mercy of his classmates. He is heartlessly ostracized all throughout elementary and middle school, while teachers turn a blind eye." ;
+             d:airedPublished      "Sep 17, 2016" ;
+             d:studiosAuthor       "Kyoto Animation" ;
+             d:status              "Finished";
+             d:episodeChapter       1.
+
+d:P13        d:nama	               "Clannad: After Story" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Clannad: After Story, the sequel to the critically acclaimed slice-of-life series Clannad, begins after Tomoya Okazaki and Nagisa Furukawa graduate from high school. Together, they experience the emotional rollercoaster of growing up. Unable to decide on a course for his future, Tomoya learns the value of a strong work ethic and discovers the strength of Nagisa's support. Through the couple's dedication and unity of purpose, they push forward to confront their personal problems, deepen their old relationships, and create new bonds." ;
+             d:airedPublished      "Oct 3, 2008 to Mar 27, 2009" ;
+             d:studiosAuthor       "Kyoto Animation" ;
+             d:status              "Finished";
+             d:episodeChapter       24.
+
+d:P14        d:nama	               "Gintama" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "However one man, Gintoki Sakata, still possesses the heart of the samurai, although from his love of sweets and work as a yorozuya, one might not expect it. Accompanying him in his jack-of-all-trades line of work are Shinpachi Shimura, a boy with glasses and a strong heart, Kagura with her umbrella and seemingly bottomless stomach, as well as Sadaharu, their oversized pet dog. Of course, these odd jobs are not always simple, as they frequently have run-ins with the police, ragtag rebels, and assassins, oftentimes leading to humorous but unfortunate consequences." ;
+             d:airedPublished      "Apr 4, 2006 to Mar 25, 2010" ;
+             d:studiosAuthor       "Sunrise" ;
+             d:status              "Finished";
+             d:episodeChapter       201.
+
+d:P15        d:nama	               "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "When Gintoki apprehends a movie pirate at a premiere, he checks the camera's footage and finds himself transported to a bleak, post-apocalyptic version of Edo, where a mysterious epidemic called the White Plague has ravished the world's population. It turns out that the movie pirate wasn't a pirate after all—it was an android time machine, and Gintoki has been hurtled five years into the future! Shinpachi and Kagura, his Yorozuya cohorts, have had a falling out and are now battle-hardened solo vigilantes and he himself has been missing for years, disappearing without a trace after scribbling a strange message in his journal." ;
+             d:airedPublished      "Jul 6, 2013" ;
+             d:studiosAuthor       "Sunrise" ;
+             d:status              "Finished";
+             d:episodeChapter       1.
+
+d:P16        d:nama	               "Kimi no Na wa" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture." ;
+             d:airedPublished      "Aug 26, 2016" ;
+             d:studiosAuthor       "BoCoMix Wave Filmsnes" ;
+             d:status              "Finished";
+             d:episodeChapter       1.
+
+d:P17        d:nama	               "Owarimonogatari 2nd Season" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Araragi, with the help of his girlfriend Hitagi Senjougahara, maneuvers through the webs of his past and the perplexities of the present in search of answers. However, fate once again delivers him to the eccentric transfer student Ougi Oshino, who brings forth an unexpected proposal that may unearth the very foundation to which he is anchored. As Araragi peels back the layers of mystery surrounding an apparition, he discovers a truth not meant to be revealed." ;
+             d:airedPublished      "Aug 12, 2017 to Aug 13, 2017" ;
+             d:studiosAuthor       "Shaft" ;
+             d:status              "Finished";
+             d:episodeChapter       7.
+
+d:P18        d:nama	               "Code Geass: Hangyaku no Lelouch R2" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Lelouch Lamperouge, having lost all memory of his double life, is living peacefully alongside his friends as a high school student at Ashford Academy. His former partner C.C., unable to accept this turn of events, takes it upon herself to remind him of his past purpose, hoping that the mastermind Zero will rise once again to finish what he started, in this thrilling conclusion to the series." ;
+             d:airedPublished      "Apr 6, 2008 to Sep 28, 2008" ;
+             d:studiosAuthor       "Sunrise" ;
+             d:status              "Finished";
+             d:episodeChapter       25.
+
+d:P19        d:nama	               "Fruits Basket: The Final" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Tooru Honda, who has grown attached to the Soumas, is determined to break the chains that bind them. Her companionship with the family and her friends encourages her to move forward with lifting the curse. However, due to confounding revelations, she struggles to find the tenacity to continue her endeavors. With time slowly withering away, Tooru contends with an uncertain future in hopes of reaching the tranquility that may lie beyond all this commotion." ;
+             d:airedPublished      "Apr 6, 2021 to ?" ;
+             d:studiosAuthor       "TMS Entertainment" ;
+             d:status              "Currently Airing";
+             d:episodeChapter       0.
+
+d:P20        d:nama	               "Gintama.: Silver Soul Arc - Second Half War" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "This is the second season of Gintama's final arc and the eighth season of Gintama's continuity. In the episode continuity this corresponds to episodes 354-367 of Gintama." ;
+             d:airedPublished      "Jul 9, 2018 to Oct 8, 2018" ;
+             d:studiosAuthor       "Bandai Namco Pictures" ;
+             d:status              "Finished";
+             d:episodeChapter       14.
+
+d:P21        d:nama	               "Haikyu!! 3rd Season" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Only the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!." ;
+             d:airedPublished      "Oct 8, 2016 to Dec 10, 2016" ;
+             d:studiosAuthor       "Production I.G" ;
+             d:status              "Finished";
+             d:episodeChapter       10.
+
+d:P22        d:nama	               "Mob Psycho 100 II" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "While the workflow remains the same, Mob isn't just blindly following Reigen around anymore. With all his experiences as a ridiculously strong psychic, Mob's supernatural adventures now have more weight to them. Things take on a serious and darker tone as the dangers Mob and Reigen face are much more tangible and unsettling than ever before." ;
+             d:airedPublished      "Jan 7, 2019 to Apr 1, 2019" ;
+             d:studiosAuthor       "Bones" ;
+             d:status              "Finished";
+             d:episodeChapter       13.
+
+d:P23        d:nama	               "Fate/stay night: Heaven's Feel - III. Spring Song" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "As the final act of this chaotic war commences, the ideals Shirou believes will soon be challenged by an excruciating dilemma: is it really possible to save a world where everything seems to have gone wrong?" ;
+             d:airedPublished      "Aug 15, 2020" ;
+             d:studiosAuthor       "ufotable" ;
+             d:status              "Finished";
+             d:episodeChapter       1.
+
+d:P24        d:nama	               "Gintama.: Silver Soul Arc" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "After the fierce battle on Rakuyou, the untold past and true goal of the immortal Naraku leader, Utsuro, are finally revealed. By corrupting the Altana reserves of several planets, Utsuro has successfully triggered the intervention of the Tendoshuu’s greatest enemy: the Altana Liberation Army. With Earth as the main battleground in this interplanetary war, Utsuro's master plan to destroy the planet—and himself—is nearly complete." ;
+             d:airedPublished      "Jan 8, 2018 to Mar 26, 2018" ;
+             d:studiosAuthor       "Bandai Namco Pictures" ;
+             d:status              "Finished";
+             d:episodeChapter       12.
+
+d:P25        d:nama	               "Kizumonogatari III: Reiketsu-hen" ;
+             d:jenis       	       "Anime" ;
+             d:sinopsis            "Araragi has hunted down the three vampire hunters that defeated Kiss-shot and retrieved her limbs to return her to full strength. However, now that Araragi has almost accomplished what he’s been fighting for this whole time, he has to consider if this is what he really wants. Once he revives this powerful immortal vampire, there is no telling what she might do, and there would be no way of stopping her." ;
+             d:airedPublished      "Jan 6, 2017" ;
+             d:studiosAuthor       "Shaft" ;
+             d:status              "Finished";
+             d:episodeChapter       1.
+
+d:P26        d:nama	               "Monogatari Series: First Season" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "This is a story, a ghostory of sorts, about scars that bond, monsters that haunt, and fakes that deceive." ;
+             d:airedPublished      "Nov 1, 2006 to Jul 28, 2010" ;
+             d:studiosAuthor       "NISIO, ISIN (Story), VOFAN (Art)" ;
+             d:status              "Finished";
+             d:episodeChapter       107.
+
+d:P27        d:nama	               "Monogatari Series: Second Season" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "This is a story. A story about choices and consequences, confessions resulting in love and rejection, and decisions leading to sacrifice and tragedy." ;
+             d:airedPublished      "Oct 27, 2010 to Dec 20, 2011" ;
+             d:studiosAuthor       "NISIO, ISIN (Story), VOFAN (Art)" ;
+             d:status              "Finished";
+             d:episodeChapter       199.
+
+d:P28        d:nama	               "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "As Kiyotaka Ayanokouji and his classmates begin their second-year life, changes are seen everywhere throughout Koudo Ikusei High School. With the third-years having graduated and incoming first-years entering the school, alliances are well underway. Additionally, now that Nagumo Miyabi is the student council president, the promise of turning the school into a meritocracy may become a reality." ;
+             d:airedPublished      "Jan 24, 2020 to ?" ;
+             d:studiosAuthor       "Tomose, Shunsaku (Art), Kinugasa, Shougo (Story)" ;
+             d:status              "Publishing";
+             d:episodeChapter       0.
+
+d:P29        d:nama	               "Ookami to Koushinryou" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "A young traveling merchant, Kraft Lawrence has become accustomed to days of roaming and trading, with few companions. Or so it was until one peculiar day where the trader finds a young, naked, wolf-like girl asleep in his wagon." ;
+             d:airedPublished      "Feb 10, 2006 to ?" ;
+             d:studiosAuthor       "Hasekura, Isuna (Story), Ayakura, Juu (Art)" ;
+             d:status              "Publishing";
+             d:episodeChapter       106.
+
+d:P30        d:nama	               "Yahari Ore no Seishun Love Comedy wa Machigatteiru." ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "Hachiman Hikigaya, a student in Soubu High School, is a cynical loner due to his traumatic past experiences in his social life. This eventually led to him developing a set of dead fish eyes and a twisted personality similar to that of a petty criminal. Believing that the concept of youth is a lie made up by youngsters who face their failures in denial, he turns in an essay that criticizes this exact mentality of youths. Irritated by the submission, his homeroom teacher, Shizuka Hiratsuka forces him to join the Volunteer Service Club—a club that assists students to solve their problems in life, hoping that helping other people would change his personality." ;
+             d:airedPublished      "Mar 18, 2011 to Apr 20, 2021" ;
+             d:studiosAuthor       "Watari, Wataru (Story), Ponkan⑧ (Art)" ;
+             d:status              "Finished";
+             d:episodeChapter       168.
+
+d:P31        d:nama	               "Monogatari Series: Final Season" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "This is a story. The end to the saga of Koyomi Araragi." ;
+             d:airedPublished      "Sep 28, 2012 to Sep 18, 2014" ;
+             d:studiosAuthor       "NISIO, ISIN (Story), VOFAN (Art)" ;
+             d:status              "Finished";
+             d:episodeChapter       231.
+
+d:P32        d:nama	               "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "Receiving funding from the government to nurture the next generation's hopefuls, Koudo Ikusei High School brings together the brightest youth of Japan onto a single campus. At this seemingly perfect institution, the reserved Kiyotaka Ayanokouji arrives as an incoming member of class 1-D, where he befriends one of his classmates, the antisocial Suzune Horikita." ;
+             d:airedPublished      "May 25, 2015 to Sep 25, 2019" ;
+             d:studiosAuthor       "Tomose, Shunsaku (Art), Kinugasa, Shougo (Story)" ;
+             d:status              "Finished";
+             d:episodeChapter       110.
+
+d:P33        d:nama	               "Utsuro no Hako to Zero no Maria" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "Kazuki Hoshino values his everyday life above all else. He spends the days carefree with his friends at school, until the uneventful bliss suddenly comes to a halt with the transfer of the aloof beauty Aya Otonashi into his class and her cold, dramatic statement to him immediately upon arrival:" ;
+             d:airedPublished      "Jan 10, 2009 to Jun 10, 2015" ;
+             d:studiosAuthor       "Mikage, Eiji (Story), Tetsuo (Art)" ;
+             d:status              "Finished";
+             d:episodeChapter       40.
+
+d:P34        d:nama	               "Re:Zero kara Hajimeru Isekai Seikatsu" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "Exiting the convenience store, Subaru Natsuki emerges to a busy town inhabited by humans and demi-humans. Using dragons and carriages as transportation, the town is clearly not the modern-day Japan that he is familiar with. However, as someone who spends his days engrossed in comics and games, Subaru assumes that he is a protagonist in this new fantasy world, harnessing supreme magical powers." ;
+             d:airedPublished      "Jan 23, 2014 to ?" ;
+             d:studiosAuthor       "Nagatsuki, Tappei (Story), Ootsuka, Shinichirou (Art)" ;
+             d:status              "Publishing";
+             d:episodeChapter       280.             
+
+d:P35        d:nama	               "Shinyaku Toaru Majutsu no Index" ;
+             d:jenis       	       "Light Novel" ;
+             d:sinopsis            "Having lasted merely two weeks, World War III has come to an end. Both Accelerator and Hamazura Shiage have returned home to the people they cherish most after overcoming their individual conflicts. The world is at peace and Academy City continues on as normal while the magicians focus their efforts on repairing the damage they took from the war." ;
+             d:airedPublished      "Mar 10, 2011 to Jul 10, 2019" ;
+             d:studiosAuthor       "Kamachi, Kazuma (Story), Haimura, Kiyotaka (Art)" ;
+             d:status              "Finished";
+             d:episodeChapter       178.

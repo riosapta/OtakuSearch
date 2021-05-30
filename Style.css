@@ -62,7 +62,7 @@ header{
 
 .contentContainer{
     background: rgb(57, 57, 71);
-    margin: 600px 70px 0 70px;
+    margin: 420px 220px 0 220px;
     border-radius: 10px;
 }
 
@@ -70,19 +70,31 @@ header{
     
     color: white;
     text-align: left;
-    padding: 25px 15px 5px 25px;
+    padding: 25px 35px 5px 35px;
 }
 
 .contentBox h2{
+    text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin: 0 0 10px 0;
 }
-
+.contentBox h4{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 600;
+    font-size: 18px;
+    margin: 10px 0 3px 0;
+}
 .contentBox p{
     font-family: 'Inconsolata', monospace;
     font-weight: 600;
     margin: 3px 0;
+}
+
+.contentContent {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 
 .line{
@@ -360,4 +372,62 @@ header{
     color: white;
     opacity: 0.5;
     font-weight: bolder;
+}
+/* Home */
+.homeMain{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.homeTitle{
+    font-size: 90px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: white;
+    position: relative;
+    top: 50px;
+}
+
+.homeDesc{
+    background: rgb(57, 57, 71, 0.7);
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 600;
+    font-size: 24px;
+    margin: 80px 270px 0 270px;
+    border-radius: 10px;
+    min-height: 200px;
+    vertical-align: middle;
+    text-align: justify;
+    display: flex;
+}
+
+.homeDesc p{
+    margin: auto 40px;
+}
+
+.homeBtn{
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: crimson;
+    padding: 15px 32px;
+    font-size: 32px;
+    margin: 50px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cred{
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 600;
+    margin-top: 45px;
 }
