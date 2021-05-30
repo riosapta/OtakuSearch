@@ -1,0 +1,212 @@
+PREFIX p: <http://otakusearch.com>
+PREFIX d: <http://otakusearch.com/ns/data#>
+
+d:P01        d:title    "Fullmetal Alchemist: Brotherhood" ;
+             d:type     "Anime" ;
+             d:author   "Arakawa, Hiromu" ;
+             d:desc     "Alchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called automail and become a state alchemist, the Fullmetal Alchemist." ;
+             d:genre    "Fantasy" ;
+             d:status   "Finished".
+
+d:P02        d:title    "Tensei Shitara Slime Datta Ken" ;
+             d:type     "Anime" ;
+             d:author   "Fuse" ;
+             d:desc     "Thirty-seven-year-old Satoru Mikami is a typical corporate worker, who is perfectly content with his monotonous lifestyle in Tokyo, other than failing to nail down a girlfriend even once throughout his life. In the midst of a casual encounter with his colleague, he falls victim to a random assailant on the streets and is stabbed. However, while succumbing to his injuries, a peculiar voice echoes in his mind, and recites a bunch of commands which the dying man cannot make sense of. When Satoru regains consciousness, he discovers that he has reincarnated as a goop of slime in an unfamiliar realm. In doing so, he acquires newfound skills—notably, the power to devour anything and mimic its appearance and abilities. He then stumbles upon the sealed Catastrophe-level monster Storm Dragon Veldora who had been sealed away for the past 300 years for devastating a town to ashes. Sympathetic to his predicament, Satoru befriends him, promising to assist in destroying the seal. In return, Veldora bestows upon him the name Rimuru Tempest to grant him divine protection. Now, liberated from the mundanities of his past life, Rimuru embarks on a fresh journey with a distinct goal in mind. As he grows accustomed to his new physique, his gooey antics ripple throughout the world, gradually altering his fate." ;
+             d:genre    "Fantasy" ;
+             d:status   "Finished".
+
+d:P03        d:title    "Tensei Shitara Slime Datta Ken 2nd Season" ;
+             d:type     "Anime" ;
+             d:author   "Fuse" ;
+             d:desc     "Second season of Tensei shitara Slime Datta Ken." ;
+             d:genre    "Fantasy" ;
+             d:status   "Finished".
+
+d:P04        d:title    "Tensei shitara Slime Datta Ken OVA" ;
+             d:type     "Anime" ;
+             d:author   "Fuse" ;
+             d:desc     "The episode bundled with the 13th volume is about the Sumo competition that held at Tempest for the first time, suggested by Rimuru. The three-part OVA bundled with the 14th, 15th, and 16th manga volumes is an original trilogy written by Fuse. Rimuru has been teaching Shizue's students at Ingracia Kingdom's Freedom Academy. The time has come for the school's annual outdoor training event, where the students will test their combat skills in the field. Rimuru is determined to win the competition and take home the prize money, but he is challenged by Jeff, an honorary teacher who sees Rimuru as a rival. The competition is underway when suddenly an unexpected enemy appears!" ;
+             d:genre    "Fantasy" ;
+             d:status   "Finished".
+
+d:P05        d:title    "Mushoku Tensei: Isekai Ittara Honki Dasu" ;
+             d:type     "Anime" ;
+             d:author   "Fujikawa, Yuka" ;
+             d:desc     "Despite being bullied, scorned, and oppressed all of his life, a thirty-four-year-old shut-in still found the resolve to attempt something heroic—only for it to end in a tragic accident. But in a twist of fate, he awakens in another world as Rudeus Greyrat, starting life again as a baby born to two loving parents. Preserving his memories and knowledge from his previous life, Rudeus quickly adapts to his new environment. With the mind of a grown adult, he starts to display magical talent that exceeds all expectations, honing his skill with the help of a mage named Roxy Migurdia. Rudeus learns swordplay from his father, Paul, and meets Sylphiette, a girl his age who quickly becomes his closest friend. As Rudeus' second chance at life begins, he tries to make the most of his new opportunity while conquering his traumatic past. And perhaps, one day, he may find the one thing he could not find in his old world—love." ;
+             d:genre    "Fantasy" ;
+             d:status   "Finished".
+
+d:P06        d:title    "Handa-kun" ;
+             d:type     "Anime" ;
+             d:author   "Diomedéa" ;
+             d:desc     "Hated by everyone around him, Sei Handa goes about his high school life regarded as an outcast—or at least that's what he believes. In reality, Sei is the most popular student on campus, revered by all for his incomparable calligraphy skills, good looks, and cool personality. However, due an endless series of misunderstandings, Handa perceives the worship he receives from his legions of fans as bullying, leading the school's idol to shut himself off from the rest of his classmates. But distancing himself from his peers doesn't deter them from adoring him; in fact, his attempts at drawing attention away from himself often end up unintentionally converting even the most skeptical of students into believers. Fashion models, shut-in delinquents, obsessive fangirls, and more—none can stand against the brilliance that is Sei Handa." ;
+             d:genre    "Slice of Life" ;
+             d:status   "Finished".
+
+d:P07        d:title    "Barakamon" ;
+             d:type     "Anime" ;
+             d:author   "Kinema Citrus" ;
+             d:desc     "Seishuu Handa is an up-and-coming calligrapher: young, handsome, talented, and unfortunately, a narcissist to boot. When a veteran labels his award-winning piece as unoriginal, Seishuu quickly loses his cool with severe repercussions. As punishment, and also in order to aid him in self-reflection, Seishuu's father exiles him to the Goto Islands, far from the comfortable Tokyo lifestyle the temperamental artist is used to. Now thrown into a rural setting, Seishuu must attempt to find new inspiration and develop his own unique art style—that is, if boisterous children (headed by the frisky Naru Kotoishi), fujoshi middle schoolers, and energetic old men stop barging into his house! The newest addition to the intimate and quirky Goto community only wants to get some work done, but the islands are far from the peaceful countryside he signed up for. Thanks to his wacky neighbors who are entirely incapable of minding their own business, the arrogant calligrapher learns so much more than he ever hoped to." ;
+             d:genre    "Slice of Life" ;
+             d:status   "Finished".
+
+d:P08        d:title    "Amaama to Inazuma" ;
+             d:type     "Anime" ;
+             d:author   "TMS Entertainment" ;
+             d:desc     "Since the death of his wife, Kouhei Inuzuka has been caring for his young daughter Tsumugi to the best of his abilities. However, with his lack of culinary knowledge and his busy job as a teacher, he is left relying on ready-made meals from convenience stores to feed the little girl. Frustrated at his own incapability to provide a fresh, nutritious meal for his daughter, Kouhei takes up an offer from his student, Kotori Iida, to come have dinner at her family's restaurant. But on their very first visit, the father and daughter discover that the restaurant is often closed due to Kotori's mother being away for work and that Kotori often eats alone. After much pleading from his pupil, Kouhei decides to continue to go to the restaurant with Tsumugi to cook and share delicious homemade food with Kotori. Amaama to Inazuma follows the heartwarming story of a caring father trying his hardest to make his adorable little daughter happy, while exploring the meanings and values behind cooking, family, and the warm meals at home that are often taken for granted." ;
+             d:genre    "Slice of Life" ;
+             d:status   "Finished".
+
+d:P09        d:title    "Nichijou" ;
+             d:type     "Anime" ;
+             d:author   "Kyoto Animation" ;
+             d:desc     "Nichijou primarily focuses on the daily antics of a trio of childhood friends—high school girls Mio Naganohara, Yuuko Aioi and Mai Minakami—whose stories soon intertwine with the young genius Hakase Shinonome, her robot caretaker Nano, and their talking cat Sakamoto. With every passing day, the lives of these six, as well as of the many people around them, experience both the calms of normal life and the insanity of the absurd. Walking to school, being bitten by a talking crow, spending time with friends, and watching the principal suplex a deer: they are all in a day's work in the extraordinary everyday lives of those in Nichijou." ;
+             d:genre    "Comedy" ;
+             d:status   "Finished".
+
+d:P10        d:title    "Koe no Katachi" ;
+             d:type     "Anime" ;
+             d:author   "Kyoto Animation" ;
+             d:desc     "As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her. With Shouko transferring out of the school, Shouya is left at the mercy of his classmates. He is heartlessly ostracized all throughout elementary and middle school, while teachers turn a blind eye. Now in his third year of high school, Shouya is still plagued by his wrongdoings as a young boy. Sincerely regretting his past actions, he sets out on a journey of redemption: to meet Shouko once more and make amends. Koe no Katachi tells the heartwarming tale of Shouya's reunion with Shouko and his honest attempts to redeem himself, all while being continually haunted by the shadows of his past." ;
+             d:genre    "Drama" ;
+             d:status   "Finished".
+
+d:P11        d:title    "Koe no Katachi" ;
+             d:type     "Manga" ;
+             d:author   "Ooima, Yoshitoki" ;
+             d:desc     "Shouya Ishida, a boy always looking for ways to beat boredom, ends up looking for it in the wrong place. Weirded out by his new classmate, a deaf transfer student named Shouko Nishimiya, he deems her as the target of his ostracizing and bullying. Day after day, Shouya picks on Shouko, unaware of the effects of his thoughtless actions. He finally understands the pain he has inflicted on her when one day, his bullying culminates in her leaving the school, and his classmates begin to shun and harass him every chance they get instead. Determined to right his wrongs, five years later, Shouya, now a third year high school loner, meets Shouko again. Thus begins the story of a young man's path to redemption." ;
+             d:genre    "Drama" ;
+             d:status   "Finished".
+
+d:P12        d:title    "Fullmetal Alchemist" ;
+             d:type     "Manga" ;
+             d:author   "Arakawa, Hiromu" ;
+             d:desc     "Alchemists are knowledgeable and naturally talented individuals who can manipulate and modify matter due to their art. Yet despite the wide range of possibilities, alchemy is not as all-powerful as most would believe. Human transmutation is strictly forbidden, and whoever attempts it risks severe consequences. Even so, siblings Edward and Alphonse Elric decide to ignore this great taboo and bring their mother back to life. Unfortunately, not only do they fail in resurrecting her, they also pay an extremely high price for their arrogance: Edward loses his left leg and Alphonse his entire body. Furthermore, Edward also gives up his right arm in order to seal his brother's soul into a suit of armor. Years later, the young alchemists travel across the country looking for the Philosopher's Stone, in the hopes of recovering their old bodies with its power. However, their quest for the fated stone also leads them to unravel far darker secrets than they could ever imagine." ;
+             d:genre    "Fantasy" ;
+             d:status   "Finished".
+
+d:P13        d:title    "Tensei shitara Slime Datta Ken" ;
+             d:type     "Manga" ;
+             d:author   "Fuse" ;
+             d:desc     "It is just another ordinary day for Satoru Mikami. The sun is shining brightly on the streets of Tokyo, and he is in the midst of a discussion with his colleagues when suddenly he gets stabbed by a passing robber. The average 37-year-old corporate worker is now at death's door, and he has only one regret—dying a virgin. Fading out, he is startled by a mysterious AI-like voice reciting commands. Satoru abruptly wakes up in the middle of a strange cave, but something odd has happened: he is now a goop of slime! Thanks to his new body, he has acquired the skill to absorb anything and obtain its appearance and abilities. While testing out his newfound powers and exploring the cave, he stumbles upon a massive dragon named Veldora, who has been sealed away for the past three hundred years. After quickly befriending the beast, Satoru decides to help him escape; in exchange, Satoru is bestowed a new name: Rimuru Tempest. Wishing to avoid a life like his boring and mundane past, Rimuru is about to set out on a grand quest that will change his own destiny and the fate of his new world." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P14        d:title    "Mushoku Tensei: Isekai Ittara Honki Dasu" ;
+             d:type     "Manga" ;
+             d:author   "Fujikawa, Yuka" ;
+             d:desc     "A 34-year-old NEET loses his life saving a stranger in a traffic accident, only to wake up to find himself reborn as the baby Rudeus Greyrat in a new world filled with magic. The child of the adventurers Paul and Zenith Greyrat, his innate talent for magic is immediately recognized when he turns two, and the magic tutor Roxy Migurdia is brought to his home to refine him into a mage. With a tremendous amount of magical power and a wealth of knowledge from his original world, Rudeus seeks to fulfill his only desires from his previous life—to not repeat the mistakes of his past and die with no regrets." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P15        d:title    "Berserk" ;
+             d:type     "Manga" ;
+             d:author   "Miura, Kentarou" ;
+             d:desc     "Guts, a former mercenary now known as the Black Swordsman, is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings. Setting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity." ;
+             d:genre    "Fantasy" ;
+             d:status   "Discontinued".
+
+d:P16        d:title    "One Piece" ;
+             d:type     "Manga" ;
+             d:author   "Oda, Eiichiro" ;
+             d:desc     "Gol D. Roger, a man referred to as the Pirate King, is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins. Twenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new Pirate King. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P17        d:title    "Made in Abyss" ;
+             d:type     "Manga" ;
+             d:author   "Tsukushi, Akihito" ;
+             d:desc     "The Abyss, a hole of unprecedented depth—one young girl and a robot brave its dangers to find the truth. The town of Orth is a special one, as it is built around the edges of the massive Abyss, a wonder which has never been fully explored. Those who venture too far down never return, but those brave enough to traverse its territories are known as Cave Raiders and are heralded as legends. Within this town lives a young girl called Riko, the child of one of the most famous Cave Raiders of all time who disappeared on an expedition many years ago. One day, Riko's life changes when she meets a strange robot called Regu, who seems to appear from within the Abyss. Believing this to be a sign from her mother stuck at the bottom of the Abyss, Riko descends into its depths with Regu, ready to confront all the dangers within it." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P18        d:title    "Akatsuki no Yona" ;
+             d:type     "Manga" ;
+             d:author   "Kusanagi, Mizuho" ;
+             d:desc     "Once upon a time, the kingdom of Kouka was ruled by a red dragon in human form. By his side, four warriors imbued with dragon blood helped him lead the kingdom to prosperity. Time passed, and this tale became a legend to tell children. As the sole princess of Kouka, Yona lives a life of lavish ease. In love with her cousin, Su-won, and protected by her bodyguard, Son Hak, she wants for nothing and remains sheltered from the harrowing reality outside the castle walls. Contrary to this peaceful illusion, Kouka is about to undergo a political upheaval. After her beloved Su-won stages a bloody coup and murders her father, Yona is forced to flee with only Hak by her side. Though surrounded by enemies on all sides, the banished princess still yearns to save her kingdom. Her solution comes from an exiled priest, who tells her that her only hope is to find the four legendary dragon warriors. Guided by this seemingly fictitious myth, Yona sets out to find these warriors, determined to restore her kingdom." ;
+             d:genre    "Drama" ;
+             d:status   "Finished".
+
+d:P19        d:title    "One Punch-Man" ;
+             d:type     "Manga" ;
+             d:author   "ONE" ;
+             d:desc     "After rigorously training for three years, the ordinary Saitama has gained immense strength which allows him to take out anyone and anything with just one punch. He decides to put his new skill to good use by becoming a hero. However, he quickly becomes bored with easily defeating monsters, and wants someone to give him a challenge to bring back the spark of being a hero. Upon bearing witness to Saitama's amazing power, Genos, a cyborg, is determined to become Saitama's apprentice. During this time, Saitama realizes he is neither getting the recognition that he deserves nor known by the people due to him not being a part of the Hero Association. Wanting to boost his reputation, Saitama decides to have Genos register with him, in exchange for taking him in as a pupil. Together, the two begin working their way up toward becoming true heroes, hoping to find strong enemies and earn respect in the process." ;
+             d:genre    "Shonen" ;
+             d:status   "Ongoing".
+
+d:P20        d:title    "Death Note" ;
+             d:type     "Manga" ;
+             d:author   "Ohba, Tsugumi" ;
+             d:desc     "Ryuk, a god of death, drops his Death Note into the human world for personal pleasure. In Japan, prodigious high school student Light Yagami stumbles upon it. Inside the notebook, he finds a chilling message: those whose names are written in it shall die. Its nonsensical nature amuses Light; but when he tests its power by writing the name of a criminal in it, they suddenly meet their demise. Realizing the Death Note's vast potential, Light commences a series of nefarious murders under the pseudonym Kira, vowing to cleanse the world of corrupt individuals and create a perfect society where crime ceases to exist. However, the police quickly catch on, and they enlist the help of L—a mastermind detective—to uncover the culprit. Death Note tells the thrilling tale of Light and L as they clash in a great battle-of-minds, one that will determine the future of the world." ;
+             d:genre    "Drama" ;
+             d:status   "Finished".
+
+d:P21        d:title    "Fullmetal Alchemist" ;
+             d:type     "Light Novel" ;
+             d:author   "Arakawa, Hiromu" ;
+             d:desc     "A series of light novel stories written by Makoto Inoue (the 6 novels and the first video game novel) and Jun Eishima (the second and third video game novels)." ;
+             d:genre    "Drama" ;
+             d:status   "Finished".
+
+d:P22        d:title    "Tensei shitara Slime Datta Ken" ;
+             d:type     "Light Novel" ;
+             d:author   "Fuse" ;
+             d:desc     "A man is stabbed by a robber on the run after pushing his coworker and his coworker’s new fiance out of the way. As he lays dying, bleeding on the ground, he hears a voice. This voice is strange and interprets his dying regret of being a virgin by giving him the [Great Sage] unique skill! Is he being made fun of?!!" ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P23        d:title    "Mushoku Tensei" ;
+             d:type     "Light Novel" ;
+             d:author   "Fujikawa, Yuka" ;
+             d:desc     "A 34-year-old NEET otaku, chased out from his house by his family, found that his life is reaching a dead end. He then recalled that his life could actually have been much better if he had made better choices in the past. Just when he was at the point of regret, he saw a truck moving at fast speed, and three high schoolers in its path. Mustering all the strength he had, he tried to save them and ended getting run over by the truck, quickly ending his life. The next time he opened his eyes, he is reincarnated to a world of sword and magic as Rudeus Greyrat. Born to a new world, a new life, Rudeus decided that, “This time, I’ll really live my life to the fullest with no regret!” Thus starts the journey of a man yearning to restart his life." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P24        d:title    "Isekai Nonbiri Nouka" ;
+             d:type     "Light Novel" ;
+             d:author   "Kinosuke, Naito" ;
+             d:desc     "After his struggle against disease for a decade, the main character dies. However, he revives and became younger in a different world. The main support of the main character’s heart during his battle against the disease is a TV program about leisure farming. In his second life in a different world, he’s going to try farming. Common things like different world transition and domestic affairs? This will have no big climax. This is going to be frantic." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P25        d:title    "Overgeared" ;
+             d:type     "Light Novel" ;
+             d:author   "Park Saenal" ;
+             d:desc     "As Shin Youngwoo had an unfortunate life and is now stuck carrying bricks on construction sites. He even had to do labor in the most popular VR game, Satisfy! However, luck would soon enter his hopeless life. His character, ‘Grid’, would discover the Northern End Cave for a quest, and in that place, he would find ‘Pagma’s Rare Book’ and will become a legend…" ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P26        d:title    "Second Life Ranker" ;
+             d:type     "Light Novel" ;
+             d:author   "Sadoyeon" ;
+             d:desc     "Yeon-woo had a twin brother who disappeared five years ago. One day, a pocket watch left by his brother returned to his possession. Inside, he found a hidden diary in which was recorded “By the time you hear this, I guess I will be already dead….” Obelisk, the Tower of the Sun God, a world where several universes and dimensions intersect. In this world, his brother had fallen victim to betrayal while climbing up the tower. After learning the truth, Yeon-woo decided to climb the tower along with his brother’s diary. “From now on, I am Cha Jeong-woo.”" ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P27        d:title    "Trash of the Count’s Family" ;
+             d:type     "Light Novel" ;
+             d:author   "Yoo Ryeo Han" ;
+             d:desc     "When I opened my eyes, I was inside a novel. [The Birth of a Hero]. [The Birth of a Hero] was a novel focused on the adventures of the main character, Choi Han, a high school boy who was transported to a different dimension from Earth, along with the birth of the numerous heroes of the continent. I became a part of that novel as the tr*sh of the Count’s family, the family that oversaw the territory where the first village that Choi Han visits is located. The problem is that Choi Han becomes twisted after that village, and everyone in it, are destroyed by assassins. The bigger problem is the fact that this s*upid tr*sh who I’ve become doesn’t know about what happened in the village and messes with Choi Han, only to get beaten to a pulp. “…This is going to be a problem.” I feel like something serious has happened to me. But it was worth trying to make this my new life." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P28        d:title    "SSS-Class Suicide Hunter" ;
+             d:type     "Light Novel" ;
+             d:author   "Shin Noah" ;
+             d:desc     "I want an S-Rank skill too! I want it so badly, I could die for it! [You have awakened an S-Rank skill.] [But it only works when you die.] Eh !? WHAT IS THE POINT OF GETTING ONE IF I DIE !?" ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P29        d:title    "Kumo Desu ga, Nani ka?" ;
+             d:type     "Light Novel" ;
+             d:author   "Baba Okina" ;
+             d:desc     "The world where the Hero and the Demon King continue to oppose each other. The grand magic from the Hero and the Demon King cross over worlds and exploded in the classroom of a certain high school. The students who died in the explosion will be reincarnated in a different world. The protagonist, who had the lowest reputation in the class, was reincarnated into a spider. Nevertheless, she adapted quickly to the present condition with strong willpower. This is a story of she who has become a spider trying whatever she can to live." ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".
+
+d:P30        d:title    "The Tutorial Is Too Hard" ;
+             d:type     "Light Novel" ;
+             d:author   "Gandara" ;
+             d:desc     "On a normal boring day, a message appears, inviting him to a Tutorial. A tale about Lee Ho Jae and his escape from the Tutorial. But he just happened to choose the hardest possible difficulty: Hell…" ;
+             d:genre    "Fantasy" ;
+             d:status   "Ongoing".

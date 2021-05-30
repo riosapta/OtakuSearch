@@ -1,0 +1,15 @@
+PREFIX p: <http://otakusearch.com>
+        PREFIX d: <http://otakusearch.com/ns/data#>
+        
+        SELECT ?Title ?Type ?Author ?Desc ?Genre ?Status
+        WHERE
+        { 
+            ?s  d:title ?Title;
+                d:type ?Type;
+                d:author ?Author;
+                d:desc ?Desc;
+                d:genre ?Genre;
+                d:status ?Status
+                FILTER regex(?Title, '$test')
+    
+        }
