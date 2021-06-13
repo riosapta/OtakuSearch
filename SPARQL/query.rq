@@ -1,0 +1,19 @@
+PREFIX p: <http://otakusearch.com>
+PREFIX d: <http://otakusearch.com/ns/data#>
+        
+  SELECT ?Title ?Desc ?Genre ?Author ?Type ?Status
+
+        WHERE
+        { 
+  			?x	d:title ?Title;
+  				d:desc	?Desc.
+  			?g 	d:genreTitle ?Genre;
+  				d:isGenre ?x.
+  			?a 	d:authorTitle ?Author;
+  				d:isAuthor ?x.
+  			?t 	d:typeTitle ?Type;
+  				d:isType ?x.
+  			?s 	d:statusTitle ?Status;
+  				d:isStatus ?x.
+  
+        }
